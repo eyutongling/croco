@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="crocoSpider" />
+        <module name="qianchengwuyouSpider" />
+        <module name="spring-web-demo" />
+        <module name="tiaozhanACM" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="croco" target="1.8" />
+      <module name="crocoSpider" target="1.8" />
+      <module name="qianchengwuyouSpider" target="1.8" />
+      <module name="spring-web-demo" target="1.8" />
+      <module name="tiaozhanACM" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
